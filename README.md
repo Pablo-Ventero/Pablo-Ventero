@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hola, soy Pablo 👋
+
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Madrid.
+Me apasiona el desarrollo web y la programación en general.
+Actualmente en primer curso, construyendo mis bases técnicas día a día.
+
+---
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Proyectos actuales
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🔜 En construcción... | Subiendo proyectos del ciclo | Java, SQL, HTML/CSS |
+
+---
+
+## 📈 Mi actividad en GitHub
+
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-Ventero&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Ventero&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contacto
+
+- 📍 Madrid, España
+- 💼 Abierto a prácticas y oportunidades junior a partir de 2026
+- 🌱 Actualmente aprendiendo: Java · SQL · HTML/CSS
+
+---
+
+⭐ *"El mejor código es el que se escribe, aunque sea imperfecto"*
 
 <!--
 **Pablo-Ventero/Pablo-Ventero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
