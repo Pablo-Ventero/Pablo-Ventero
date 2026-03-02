@@ -20,7 +20,9 @@ Actualmente en primer curso, construyendo mis bases técnicas día a día.
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔜 En construcción... | Subiendo proyectos del ciclo | Java, SQL, HTML/CSS |
+| [☕ Estructuras de Control](https://github.com/Pablo-Ventero/ejercicios-java-estructuras-control) | Ejercicios de bucles, condicionales y lógica en Java | Java |
+| 🔜 Próximamente... | Ejercicios Java — Arrays y colecciones | Java |
+| 🔜 Próximamente... | Ejercicios Java — POO | Java |
 
 ---
 
