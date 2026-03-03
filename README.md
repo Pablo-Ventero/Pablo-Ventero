@@ -30,11 +30,9 @@ Actualmente en primer curso, construyendo mis bases técnicas día a día.
 
 ## 📈 Mi actividad en GitHub
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-Ventero&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pablo-Ventero&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Ventero&layout=compact&theme=tokyonight&hide_border=true)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Ventero&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
 
 ## 📫 Contacto
 
