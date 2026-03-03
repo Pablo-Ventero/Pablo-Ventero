@@ -24,6 +24,7 @@ Actualmente en primer curso, construyendo mis bases técnicas día a día.
 | [☕ Arrays y ArrayLists](https://github.com/Pablo-Ventero/ejercicios-java-arrays) | Ejercicios de arrays, colecciones y búsqueda en Java | Java |
 | [☕ POO](https://github.com/Pablo-Ventero/ejercicios-java-poo) | Proyectos de clases, herencia y encapsulación en Java | Java |
 | [☕ Excepciones](https://github.com/Pablo-Ventero/ejercicios-java-excepciones) | Proyectos de manejo de excepciones personalizadas en Java | Java |
+| [☕ Ficheros de Texto](https://github.com/Pablo-Ventero/ejercicios-java-ficheros) | Proyectos de lectura y escritura de ficheros en Java | Java |
 
 ---
 
