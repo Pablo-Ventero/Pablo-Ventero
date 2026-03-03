@@ -22,7 +22,7 @@ Actualmente en primer curso, construyendo mis bases técnicas día a día.
 |----------|-------------|-------------|
 | [☕ Estructuras de Control](https://github.com/Pablo-Ventero/ejercicios-java-estructuras-control) | Ejercicios de bucles, condicionales y lógica en Java | Java |
 | [☕ Arrays y ArrayLists](https://github.com/Pablo-Ventero/ejercicios-java-arrays) | Ejercicios de arrays, colecciones y búsqueda en Java | Java |
-| 🔜 Próximamente... | Ejercicios Java — POO | Java |
+| [☕ POO](https://github.com/Pablo-Ventero/ejercicios-java-poo) | Proyectos de clases, herencia y encapsulación en Java | Java |
 
 ---
 
